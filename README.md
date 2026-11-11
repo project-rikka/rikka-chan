@@ -42,7 +42,7 @@ We may update these rules. The version in this repository is the current one. If
 
 We use AI on Project Rikka, and we used it for this README too.
 
-For us, AI is a tool for getting work done faster. I use it when I write code, but the ideas are mine. I don't think it should be used in ways that take away from people's own creativity.
+To us, AI is both a tool and a partner. It speeds up the work and helps out when we get stuck. I use it when I write code, but the ideas are mine. I don't think it should be used in ways that take away from people's own creativity.
 
 AI image generation usually goes further than that. It produces the finished picture, which is the creative part, and many musicians and illustrators don't accept it. Out of respect for Rikka's designer and other artists, we don't allow her to be used for AI training or image generation.
 
