@@ -10,7 +10,7 @@ The mascot of Project Rikka
 
 ## About
 
-Project Rikka is a desktop environment we're building, with its own Wayland compositor and shell. We're aiming for something on the level of GNOME.
+Project Rikka is a desktop environment we're building, with its own Wayland compositor and shell.
 
 | | |
 |---|---|
