@@ -17,8 +17,7 @@ Project Rikka is a desktop environment we're building, with its own Wayland comp
 | Name | 六花 (Rikka) |
 | Gender | Female |
 | Motif | Snowflake |
-| Colors | White and ice blue |
-| Original design | [XC—星尘/叶子](https://www.mihuashi.com/profiles/10910069) |
+| Original design | [XC—星尘/叶子](https://www.mihuashi.com/profiles/1091006) |
 
 ## Her name
 
@@ -51,6 +50,6 @@ AI image generation usually goes further than that. It produces the finished pic
 
 <div align="center">
 
-Character © Project Rikka · Original design by [XC—星尘/叶子](https://www.mihuashi.com/profiles/10910069)
+Character © Project Rikka · Original design by [XC—星尘/叶子](https://www.mihuashi.com/profiles/1091006)
 
 </div>
